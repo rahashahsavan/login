@@ -1,2 +1,3 @@
 # login
-log in and register page
+Log in and register page
+In this file, we are creating a single page with HTML and CSS
